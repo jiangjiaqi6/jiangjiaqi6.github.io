@@ -29,6 +29,15 @@ January 2022 - May 2022
 AI Tooling and MLOps Project: Develop job analysis tool on AI training platform Azure
 
 ## Education
+**Master of Computer Science**
+<br>
+September 2021 – June 2024
+<br>
+Beijing Institute of Technology
+<br>
+Department of Computer Science
+<br>
+
 **Bachelor of Computer Science**
 <br>
 September 2017 – June 2021
