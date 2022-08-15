@@ -39,8 +39,14 @@ Department of Information Science and Engineering
 <br>
 <!-- <br> -->
 
-## Seleted Awards
-- Excellent Graduates in Beijing. 
+## Awards and Fellowships
+- Beijing Outstanding Graduates (4%).
 - Top 1 Excellent Graduate of Computer Science Technology, CUP (**1/121**)
+- National Scholarship 2018, 2019 (**1/121**)
 
 <!-- <br> -->
+
+## Teaching
+- April 2020 - June 2020: Student Assistant for Intelligent Computing System
+- September 2020 - December 2020: Student Assistant for Language Programming
+  - *Distinguished Student Assistant Award* 
