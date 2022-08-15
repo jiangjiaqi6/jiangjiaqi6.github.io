@@ -49,7 +49,7 @@ Department of Information Science and Engineering
 <!-- <br> -->
 
 ## Awards and Fellowships
-- Beijing Outstanding Graduates (4%).
+- Beijing Outstanding Graduates (**4%**).
 - Top 1 Excellent Graduate of Computer Science Technology, CUP (**1/121**)
 - National Scholarship 2018, 2019 (**1/121**)
 
